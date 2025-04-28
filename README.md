@@ -30,11 +30,6 @@ You can either:
 - Hardcode small test process sets inside the `Program.cs`
 - Or modify the console to accept runtime user input (optional enhancement).
 
-Sample test input included below.
-
-## Notes
-- Project developed from scratch (no use of provided GUI starter code).
-- Report generated using LaTeX as required.
 
 ## License
 MIT License
